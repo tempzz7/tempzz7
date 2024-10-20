@@ -42,7 +42,7 @@ Atualmente estou estudando na faculdade CESAR School, onde estou aprofundando me
 - 🔭 Atualmente estou estudando na CESAR School cursando Ciência da Computação.
 - 🌱 Estou aprendendo cada vez mais sobre linguagens no ramo da computação.
 - 💬 Pergunte-me sobre qualquer coisa.
-- ⚡ Fato curioso: Tenho apenas 18 anos.
+- ⚡ Fato curioso: Tenho apenas 19 anos.
 
 ---
 
