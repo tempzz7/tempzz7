@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=4000&color=blue&background=FFDC9300&vCenter=true&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+coisas+novas)](https://git.io/typing-svg)
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor full-stack com paixão por criar soluções eficientes e elegantes. Adoro aprender novas tecnologias e aprimorar minhas habilidades.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor full-stack com paixão por criar soluções eficientes e elegantes. Apaixonado em aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## 🚀 Tecnologias e Ferramentas
 
